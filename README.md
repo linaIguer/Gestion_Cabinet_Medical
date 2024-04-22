@@ -4,8 +4,11 @@ tâches pénibles au sein du cabinet. Notre application comprendra les fonctionn
 suivantes :
 
  Gestion et Suivi du Dossier Médical.
+
  Gestion des Rendez-vous.
+
  Gestion des Fiche Patients.
+
 La consultation, est l'activité principale du cabinet médical. L'écoute attentive et
 flegmatique des propos du patient est un moment privilégié de la consultation.
 L'entretien doit se dérouler dans la stricte intimité et confidentialité pour permettre au
@@ -25,6 +28,8 @@ mentionné. L'observation médicale rédigée par le médecin doit comprendre le
 antécédents du patient qui sont :
 
  Soit médicaux (Ex : allergie a la pénicilline).
+
  Soit chirurgicaux (Ex : s'il y a eu une opération ou bien gynéco obstétricaux et
 les donnée de son terrain (poids, taille, constante, tares et allergies ...).
+
 A chaque consultation un résumé du traitement sera porté au dossier médical.
